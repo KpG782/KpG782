@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Ken Patrick Garcia</h1>
-<h3 align="center">Aspiring Full-Stack Developer | BSIT Student at UMAK</h3>
+<h3 align="center">Aspiring Full-Stack Developer | BSCS Student</h3>
 
 <!-- Sub Intro -->
 <p align="center">
