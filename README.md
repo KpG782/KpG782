@@ -4,9 +4,9 @@
 
 <!-- Sub Intro -->
 <p align="center">
-  🌱 Passionate about building apps that make an impact.<br>
-  🎯 Currently working on <strong>Campus Care</strong> and <strong>PaceBeats</strong> projects.<br>
-  🚀 Exploring Flutter, React, AI, and JavaScript!
+  🌱 Passionate about building purposeful applications.<br>
+  🌟 Currently developing <strong>Campus Care</strong> & <strong>PaceBeats</strong>.<br>
+  🚀 Exploring React, Flutter, AI & Tailwind CSS.
 </p>
 
 ---
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
@@ -31,16 +32,16 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Projects & Achievements
 
-- ✅ **Campus Care** – Mental Health & Guidance App for UMAK students
-- 🎧 **PaceBeats** – Music Recommender for Runners based on pace
-- 📊 Admin Dashboard using FlutterFlow + Firebase integration
-- 💡 Research projects involving AI (CNNs, HPE, Sentiment Analysis)
+- ✅ <strong>Campus Care</strong> – Mental Health & Guidance App for UMAK students
+- 🎧 <strong>PaceBeats</strong> – Music Recommender App for Runners based on pace & mood
+- 📊 Admin Dashboard – FlutterFlow + Firebase integrated for CampusCare CMS
+- 💡 Research Projects – AI-focused: CNN, Sentiment Analysis, and Human Pose Estimation
 
 ---
 
-## 📊 GitHub Stats (Dynamic)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kenpatrick&show_icons=true&theme=radical" alt="Ken's GitHub Stats" />
@@ -52,11 +53,11 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📢 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ken-patrick-garcia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourname@umak.edu.ph"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kenpatrick.garcia@umak.edu.ph"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
@@ -64,4 +65,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kenpatrick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Inspired by <a href="https://github.com/anuraghazra/github-readme-stats">@anuraghazra's GitHub Stats</a></sub>
 </p>
