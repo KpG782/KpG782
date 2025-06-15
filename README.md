@@ -4,50 +4,89 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 I’m a **BSCS Student** passionate about building user-centric and impactful digital experiences. Currently midway through my degree, I continuously expand my knowledge in both back-end and front-end development. I have industry experience as a web developer for the restaurant sector and thrive on discovering new technologies, solving real-world problems, and building creative, sometimes even fun, applications.
+I am a **BSCS student** passionate about crafting meaningful digital experiences. Currently halfway through my degree, I'm expanding my skills in both **back-end** and **front-end** development. I have worked as a web developer for the restaurant industry, and my goal is to continue strengthening my development skills and exploring innovative technologies.
 
-💡 Always eager to learn and contribute to innovative projects, especially in areas like:
+I enjoy building something new, creative, and fun.
 
+### 🎯 Interests:
 - Web & Mobile Development
 - Human-Centered Design
-- Open Source & Community Collaboration
+- Open Source & Community Projects
 
-📫 Contact: kenpatrickgarcia123@gmail.com
-
----
-
-## 🚀 Currently Learning
-
+### 🌱 I'm currently learning:
 - 📱 Flutter
-- ⚛️ React, React Native (Expo) & Tailwind CSS
+- ⚛️ React / React Native (Expo)
+- 🎨 Tailwind CSS
 
-Outside tech, I enjoy connecting with people, fitness, music, eating clean, traveling, and playing guitar 🎸.
+### 💬 Let’s collaborate:
+- I’m eager to join new projects
+- Feel free to ask me anything! I’m motivated to help others
 
-✅ Open to collaborations and new challenges.
+### 🧠 Outside Tech:
+- Socializing with friends 🧍‍♂️
+- Hitting the gym 💪
+- Listening to music 🎧
+- Eating clean 🥗
+- Traveling 🌍
+- Playing musical instruments 🎸
+
+📫 Contact me: kenpatrickgarcia123@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Skills
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td>
-    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></td>
-    <td><img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></td>
-  </tr>
-</table>
+### Languages & Syntax:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
+
+### Frontend Development:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+</p>
+
+### Backend & Frameworks:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+</p>
+
+### Deployment & Cloud Services:
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+</p>
+
+### Database Management:
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+### Development Tools:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+</p>
+
+### Development Environments:
+<p>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+</p>
 
 ---
 
