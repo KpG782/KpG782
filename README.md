@@ -6,7 +6,7 @@
 <p align="center">
   🌱 Passionate about building apps that make an impact.<br>
   🎯 Currently working on <strong>Campus Care</strong> and <strong>PaceBeats</strong> projects.<br>
-  🚀 Exploring Flutter, React, AI, and Firebase!
+  🚀 Exploring Flutter, React, AI, and JavaScript!
 </p>
 
 ---
