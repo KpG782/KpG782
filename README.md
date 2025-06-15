@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **BSCS student** passionate about crafting meaningful digital experiences. Currently halfway through my degree, I'm expanding my skills in both **back-end** and **front-end** development. I have worked as a web developer for the restaurant industry, and my goal is to continue strengthening my development skills and exploring innovative technologies.
+I am a **BSCS student** passionate about crafting meaningful digital experiences. Currently halfway through my degree, I'm focused on improving and learning both **back-end** and **front-end** development. My goal is to continuously grow as a developer and explore innovative technologies
 
 I enjoy building something new, creative, and fun.
 
