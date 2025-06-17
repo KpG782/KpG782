@@ -101,7 +101,7 @@ I enjoy building creative, scalable, and impactful web & mobile experiences usin
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenpatrick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="kengarciaportfolio-kpg782s-projects.vercel.app" alt="Profile Views" />
 </p>
 
 ---
