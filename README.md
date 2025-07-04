@@ -73,9 +73,9 @@ I enjoy building creative, scalable web & mobile experiences using **React Nativ
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenpatrick&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=kenpatrick&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenpatrick&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KpG782&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=KpG782&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KpG782&layout=compact&theme=radical" height="160" />
 </div>
 
 ---
