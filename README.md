@@ -57,7 +57,7 @@ I enjoy building creative, scalable web & mobile experiences using **React Nativ
 ## 🚀 Featured Projects
 
 - 🎧 **PaceBeats** — Live, data-driven soundtrack for runners using real-time pace and heart-rate IoT feeds.  
-  _React Native · Health Connect · Firebase 
+  _React Native · Health Connect · AppWrite
 
 - 🏫 **CampusCare** — AI-powered mobile guidance counseling for University of Makati students, with mood tracking, appointment booking, and analytics.  
   _FlutterFlow · Dart · Firebase · Sentiment AI  
