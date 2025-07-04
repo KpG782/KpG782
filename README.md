@@ -57,13 +57,13 @@ I enjoy building creative, scalable web & mobile experiences using **React Nativ
 ## 🚀 Featured Projects
 
 - 🎧 **PaceBeats** — Live, data-driven soundtrack for runners using real-time pace and heart-rate IoT feeds.  
-  _React Native · Health Connect · Firebase · MySQL_
+  _React Native · Health Connect · Firebase 
 
 - 🏫 **CampusCare** — AI-powered mobile guidance counseling for University of Makati students, with mood tracking, appointment booking, and analytics.  
-  _FlutterFlow · Dart · Firebase · Sentiment AI · MySQL_
+  _FlutterFlow · Dart · Firebase · Sentiment AI  
 
 - 🎬 **MovieFlix-React** — Cross-platform movie app built on React Native & Expo tapping TMDB API for live data and smooth navigation.  
-  _JavaScript · TypeScript · React Native · Expo · MySQL_
+  _JavaScript · TypeScript · React Native · Expo 
 
 - 🤖 **AndroidActsCompilation** — Showcase of Android app activities demonstrating UI patterns, lifecycle management, and Java–MySQL integrations.  
   _Java · Android · MySQL_
