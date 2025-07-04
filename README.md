@@ -80,6 +80,13 @@ I enjoy building creative, scalable web & mobile experiences using **React Nativ
 
 ---
 
+## 🏆 GitHub Trophies
+
+<img align="center"
+     src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&margin-h=10&column=4&row=2&no-bg=true&no-frame=true" />
+     
+---
+
 ## 📬 Let's Connect
 
 <p align="center">
