@@ -211,10 +211,9 @@ AI-powered Android app for identifying medicinal plants using computer vision.
 
 | Achievement | Event | Year |
 |-------------|-------|------|
-| **1st Runner Up** | InfoTech Olympics - Android App Development | 2024 |
-| **1st Runner Up** | CodeKada Innovation Hackathon | 2024 |
-| **Best Paper Presentation** | 8th Research Congress (97% score) | 2024 |
-| **Top 10 Finalist** | DOST-TAPI ClustRICE (53 entries) | 2024 |
+| **1st Runner Up** | InfoTech Olympics - Android App Development | 2025 |
+| **Best Paper Presentation** | 8th Research Congress (97% score) | 2025 |
+| **Top 10 Finalist** | DOST-TAPI ClustRICE (53 entries) | 2025 |
 
 </details>
 
