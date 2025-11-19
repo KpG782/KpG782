@@ -16,7 +16,7 @@
 
 ```typescript
 const ken = {
-    location: "Taytay, Calabarzon, Philippines",
+    location: "Manila, Philippines",
     education: "Computer Science @ University of Makati",
     currentFocus: ["Full-Stack Development", "AI/ML Integration", "Data Engineering"],
     learning: ["Data Engineering", "Advanced Cloud Architecture", "IoT Systems"],
