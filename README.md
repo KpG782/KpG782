@@ -300,8 +300,6 @@ AI-powered Android app for identifying medicinal plants using computer vision.
 
 <div align="center">
 
-### "Building meaningful solutions, one commit at a time"
-
 ![Profile Views](https://komarev.com/ghpvc/?username=KpG782&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
