@@ -180,7 +180,6 @@ Intelligent chat application using RAG for navigating Philippine legal complianc
 **Tech Stack:** Next.js, RAG, OpenAI, Vector Database
 
 **Highlights:**
-- 🏆 1st Runner Up - CodeKada Hackathon
 - Retrieval-Augmented Generation
 - Document analysis system
 - Conversational AI interface
@@ -261,7 +260,6 @@ AI-powered Android app for identifying medicinal plants using computer vision.
 |-------------|-------|------|
 | **🥇 1st Place Winner** | InfotechnoLympics 2025 - The Technocentric (PaceBeats) | 2025 |
 | **🥇 Champion** | C(Old) (St)art Hackathon by Old St. Labs | 2025 |
-| **🥈 1st Runner Up** | CodeKada Hackathon (LexInSight) | 2024 |
 | **🏅 Best Paper Presentation** | 8th Research Congress, UMak (97% score) | 2025 |
 | **🎯 Top 10 Finalist** | DOST-TAPI ClustRICE (53 entries, HerbaLens) | 2025 |
 
