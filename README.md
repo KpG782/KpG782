@@ -2,9 +2,9 @@
 
 # Hi, I'm Ken Patrick Garcia
 
-### AI Full-Stack Engineer | ML Practitioner | Cloud Practitioner
+### AI Full-Stack Engineer — Production RAG · AI Agents · Full-Stack Systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kengarciaportfolio-kpg782s-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kenbuilds.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-patrick-garcia-ba5430285)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenpatrickgarcia123@gmail.com)
 
@@ -16,113 +16,95 @@
 
 ```typescript
 const ken = {
-    location: "Manila, Philippines",
-    education: "Computer Science @ University of Makati",
+    location: "Manila, Philippines (Remote-ready)",
     role: "AI Full-Stack Engineer @ Romega Solutions",
-    currentFocus: ["AI Automation", "Full-Stack Development", "IoT Systems"],
-    learning: ["Data Engineering", "Kubernetes", "Advanced ML"],
-    interests: ["Building Scalable Apps", "AI-Powered Solutions", "Music & Tech"]
+    building: ["Production RAG systems", "AI agents", "Full-stack platforms"],
+    shipped: "42K-LOC internal ops platform — solo, in ~3 months",
+    stack: ["Next.js", "TypeScript", "FastAPI", "Supabase", "pgvector", "Claude API"],
+    principle: "Ship AI that survives contact with real users — not just demos",
 };
 ```
 
-AI Full-Stack Engineer building intelligent systems at the intersection of machine learning, web technologies, and IoT. I architect production AI solutions at Romega Solutions—from RAG-powered chatbots to automated workflows—while leading development of award-winning biometric applications. My work spans designing ML recommendation engines, deploying scalable full-stack platforms, and engineering real-time data processing systems.
+I build production AI systems that hold up under real load — RAG pipelines, autonomous agents, and full-stack applications taken from idea to live deployment, often solo.
 
-Currently bridging software engineering with data science through DataCamp's scholarship program, I'm passionate about creating solutions that combine clean architecture with cutting-edge AI capabilities. Whether it's building WearOS companions that adapt music to your heartbeat or automating university workflows with intelligent agents, I focus on making technology that genuinely enhances human experience.
+Most recently I shipped an all-in-one internal operations platform on my own in about three months: **46 pages, 56 API routes, a 31-table Postgres schema, ~42K lines of TypeScript** — native ticketing, a recruiting ATS, an LMS, and LLM-powered reporting, plus a zero-downtime migration off a third-party PM SaaS.
+
+My focus is the engineering that makes AI dependable, not just impressive in a demo: retrieval that surfaces the right context, agents that fail gracefully, and architectures built for reliability, cost, and scale from the first commit. AI outputs land in **human review queues — never auto-published.** I care less about what looks good on stage and more about what's still running at 2 AM.
 
 **Recent Highlights:**
-- 🏆 1st Place Winner - InfotechnoLympics 2025 (PaceBeats)
-- 🏆 Champion - C(Old) (St)art Hackathon by Old St. Labs 2025
-- 🎯 Top 10 Finalist - DOST-TAPI Regional Contest (53 entries)
-- 📚 DataCamp Data Engineering Scholar (2024-2025)
+- 🏆 **Champion** — C(Old) (St)art Hackathon 2025 (Old St. Labs)
+- 🥈 **1st Runner-Up** — InfoTech Olympics 2025 (PaceBeats)
+- 🎯 **National Top 10** — DOST-TAPI ClustRICE 2025 (HerbaLens, 53 entries)
+- 🎤 **Speaker** — Qwen Meetup Manila #2 (Alibaba Cloud PH)
 
 ---
 
 ## Professional Experience
 
-### 💼 Current Roles
+**AI Full-Stack Engineer** @ Romega Solutions · Remote
+*Jul 2025 – Present*
+- Shipped an all-in-one internal operations platform **solo** — 46 pages, 56 API routes, a 31-table Postgres schema, ~42K lines of TypeScript in ~3 months (PM/ticketing, attendance, recruiting ATS, LMS, AI reporting).
+- Led a **zero-downtime migration** off a third-party PM SaaS: rebuilt ticketing natively (kanban, sprints, comments, activity feeds), migrated SQLite → Supabase Postgres with Drizzle ORM, replaced custom JWT auth with Supabase Auth + Google OAuth.
+- Integrated LLM features (executive briefings, AI status-report drafting) and n8n automations (resume parsing, applicant comms, multi-step onboarding) into business workflows — outputs route to human review queues, never auto-publish.
+- Shipped production RAG chatbots with vector embeddings (ChromaDB · sentence-transformers · Gemini) for customer interactions and workflow automation.
 
-**AI Full-Stack Engineer** @ Romega Solutions (Remote)  
-*January 2026 - Present*
-- Architecting production AI chatbots with LLM APIs and RAG pipelines
-- Building AI automation systems with n8n and vector embeddings (ChromaDB)
-- Implementing semantic search with Google Gemini AI integration
+**Lead Software Engineer** @ PaceBeats · Remote
+*Aug 2025 – Mar 2026*
+- Architected a biometric music platform (**1st Runner-Up, InfoTech Olympics 2025**): WearOS app (Kotlin, Health Services API), Android app, React/TypeScript dashboard, Supabase backend.
+- Built a hybrid recommendation engine combining rule-based pace-to-BPM mapping with content-based ML scoring — real-time playlist adaptation.
+- Engineered the WearOS companion: GPS tracking, heart-rate monitoring, Data Layer API sync, Spotify SDK, 8+ hour battery optimization.
 
-**AI Workflow Automation Engineer** @ University of Makati (Part-time)  
-*January 2026 - Present*
-- Developing intelligent automation workflows using n8n
-- Streamlining university administrative processes
+**Software Engineer (Contract)** @ CodeVF · Remote
+*Feb 2026 – Apr 2026*
+- Built a real-time collaboration platform with WebSocket architecture for live debugging sessions between customers and engineers — bidirectional code review and remote assistance.
 
-**Lead Software Engineer** @ PaceBeats  
-*August 2025 - Present*
-- Built award-winning biometric music platform (1st Runner-Up, InfoTech Olympics 2025)
-- Engineered hybrid recommendation engine with ML scoring
-- Developed WearOS companion with real-time GPS and heart rate monitoring
+**AI Workflow Automation Engineer** @ University of Makati · Remote
+*Jan 2026 – Apr 2026*
+- Built n8n automation workflows to streamline administrative processes and data pipelines.
 
-### 📌 Previous Experience
-
-**Full-Stack Developer** @ University of Makati  
-*October 2025 - December 2025*
-- Built mobile dating app with React Native, TypeScript, and real-time messaging
-- Developed certificate and email signature generators with 99% performance scores
-- Implemented CI/CD pipelines with GitHub Actions and Docker
-
-**Web Developer Intern** @ University of Makati  
-*July 2025 - October 2025*
-- Achieved 99% Performance and 100% SEO scores on company website
-- Built full-stack applications with Next.js, TypeScript, and Supabase
-
-**Technical DESO Support Staff** @ COMELEC  
-*July 2025 - October 2025*
-- Configured Vote Counting Machine systems for national elections
-- Provided technical support for 500+ polling locations
+*Earlier: VCM hardware deployment for COMELEC national elections (2025); enterprise SaaS technical support at Concentrix (2024).*
 
 ---
 
 ## Technical Skills
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### AI / ML & Agents
+![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logoColor=white)
 
-### Frontend Development
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-### Cloud & DevOps
+### Cloud, DevOps & Automation
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### Specialized Technologies
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square&logoColor=white)
-![WearOS](https://img.shields.io/badge/-WearOS-4285F4?style=flat-square&logo=wearos&logoColor=white)
-![Spotify API](https://img.shields.io/badge/-Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
 ---
 
@@ -132,37 +114,35 @@ Currently bridging software engineering with data science through DataCamp's sch
 <tr>
 <td width="50%">
 
-### 🎵 PaceBeats
-**AI-Powered Biometric Music Platform**
+### ⚖️ LexInSight
+**AI Legal Compliance Assistant**
 
-Award-winning real-time music recommendation system that adapts to runners' pace and heart rate.
+RAG-powered chat for navigating Philippine legal compliance, evaluated against a golden question set.
 
-**Tech Stack:** React Native, Kotlin, WearOS, Spotify API, Health Connect, Supabase, ML
+**Stack:** Next.js, RAG, Claude API, Vector DB
 
 **Highlights:**
-- 🏆 1st Runner-Up - InfoTech Olympics 2025
-- Hybrid ML recommendation engine
-- Real-time GPS & heart rate monitoring
-- 8+ hour battery optimization
-- WearOS companion app
+- Retrieval-Augmented Generation pipeline
+- Golden-set evaluation for answer quality
+- Document analysis + conversational interface
 
 [View Project →](https://github.com/KpG782)
 
 </td>
 <td width="50%">
 
-### 🏥 CampusCare
-**AI-Powered Counseling Platform**
+### 🎵 PaceBeats
+**Biometric Music Platform**
 
-Mobile guidance counseling system with mood tracking and sentiment analysis for university students.
+Real-time music recommendation that adapts to a runner's pace and heart rate.
 
-**Tech Stack:** FlutterFlow, Dart, Firebase, AI/ML, Cloud Functions
+**Stack:** React Native, Kotlin, WearOS, Spotify API, Supabase, ML
 
 **Highlights:**
-- Sentiment analysis integration
-- Real-time appointment booking
-- Analytics dashboard
-- Secure mood tracking system
+- 🥈 1st Runner-Up — InfoTech Olympics 2025
+- Hybrid ML recommendation engine
+- Real-time GPS & heart-rate monitoring
+- 8+ hour battery optimization
 
 [View Project →](https://github.com/KpG782)
 
@@ -172,36 +152,35 @@ Mobile guidance counseling system with mood tracking and sentiment analysis for 
 <tr>
 <td width="50%">
 
-### ⚖️ LexInSight
-**AI Legal Compliance Assistant**
+### 📜 CertifiKit
+**Automated Certificate Generator**
 
-Intelligent chat application using RAG for navigating Philippine legal compliance.
+Open-source, self-hosted certificate platform with workflow automation and bulk processing.
 
-**Tech Stack:** Next.js, RAG, OpenAI, Vector Database
+**Stack:** Next.js, Tailwind CSS, n8n, PostgreSQL
 
 **Highlights:**
-- Retrieval-Augmented Generation
-- Document analysis system
-- Conversational AI interface
+- Drag-and-drop editor
+- n8n workflow automation
+- Self-hosted on VPS
+- 99% Lighthouse performance
 
 [View Project →](https://github.com/KpG782)
 
 </td>
 <td width="50%">
 
-### 📜 CertifiKit
-**Automated Certificate Generator**
+### 🌿 HerbaLens
+**Medicinal Plant Recognition**
 
-Open-source certificate generation platform with workflow automation and bulk processing.
+Android app identifying medicinal plants with on-device computer vision.
 
-**Tech Stack:** Next.js 14, Tailwind CSS, n8n, PostgreSQL
+**Stack:** Android, TensorFlow, Computer Vision
 
 **Highlights:**
-- Drag-and-drop editor
-- Workflow automation with n8n
-- Self-hosted on VPS
-- Template customization system
-- 99% Performance score
+- 🎯 National Top 10 — DOST-TAPI ClustRICE
+- Image recognition + validation
+- Plant information database
 
 [View Project →](https://github.com/KpG782)
 
@@ -214,13 +193,12 @@ Open-source certificate generation platform with workflow automation and bulk pr
 ### 🔧 ARS (Auto Repair Service)
 **On-Demand Mechanic Platform**
 
-Mobile application connecting vehicle owners with professional mechanics.
+Mobile app connecting vehicle owners with professional mechanics.
 
-**Tech Stack:** Flutter, Firebase
+**Stack:** Flutter, Firebase
 
 **Highlights:**
-- 🏆 Best Paper Presentation Award
-- 8th Research Congress (97% score)
+- 🏅 Best Paper (97%) — 8th Research Congress
 - Real-time service booking
 - Mechanic matching algorithm
 
@@ -229,18 +207,17 @@ Mobile application connecting vehicle owners with professional mechanics.
 </td>
 <td width="50%">
 
-### 🌿 HerbaLens
-**Medicinal Plant Recognition**
+### 🏥 CampusCare
+**Counseling Platform**
 
-AI-powered Android app for identifying medicinal plants using computer vision.
+Mobile guidance-counseling system with mood tracking and sentiment analysis.
 
-**Tech Stack:** Android, TensorFlow, Computer Vision
+**Stack:** Flutter, Firebase, AI/ML, Cloud Functions
 
 **Highlights:**
-- 🎯 Top 10 Finalist - DOST-TAPI ClustRICE
-- Image recognition system
-- Plant information database
-- Quality assurance and validation
+- Sentiment analysis integration
+- Real-time appointment booking
+- Secure mood-tracking system
 
 [View Project →](https://github.com/KpG782)
 
@@ -258,82 +235,32 @@ AI-powered Android app for identifying medicinal plants using computer vision.
 
 | Achievement | Event | Year |
 |-------------|-------|------|
-| **🥇 1st Place Winner** | InfotechnoLympics 2025 - The Technocentric (PaceBeats) | 2025 |
-| **🥇 Champion** | C(Old) (St)art Hackathon by Old St. Labs | 2025 |
-| **🏅 Best Paper Presentation** | 8th Research Congress, UMak (97% score) | 2025 |
-| **🎯 Top 10 Finalist** | DOST-TAPI ClustRICE (53 entries, HerbaLens) | 2025 |
+| **🥇 Champion** | C(Old) (St)art Hackathon, Old St. Labs | 2025 |
+| **🥈 1st Runner-Up** | InfoTech Olympics 2025 (PaceBeats) | 2025 |
+| **🏅 Best Paper (97%)** | 8th Research Congress, UMak (ARS) | 2025 |
+| **🎯 National Top 10** | DOST-TAPI ClustRICE — 53 entries (HerbaLens) | 2025 |
 
 </details>
 
 <details>
-<summary><b>📚 Certifications & Learning</b></summary>
+<summary><b>🎤 Speaking & Community</b></summary>
 <br>
 
-**Scholarship Programs**
-- DataCamp Data Engineering Scholar (2024-2025) - 4,000 XP monthly requirement
-
-**Cloud & DevOps**
-- AWS Cloud Practitioner Essentials
-- Introduction to Docker - DataCamp
-
-**AI/ML & Data**
-- AI Engineering Path - Scrimba
-- Artificial Intelligence Fundamentals - IBM
-- Python for Data Science - IBM Cognitive Class
-
-**Development**
-- Full-Stack Developer Path - Scrimba
-- Frontend Developer Career Path - Scrimba
-- Learn React - Scrimba
-- Learn JavaScript - Scrimba
-
-**Specialized Skills**
-- Introduction to Cybersecurity - Cisco
-- Introduction to IoT - Cisco
-- Introduction to Modern AI - Cisco
-
-[View All Certifications →](https://www.linkedin.com/in/ken-patrick-garcia-ba5430285/details/certifications/)
-
-</details>
-
-<details>
-<summary><b>🎯 Leadership & Activities</b></summary>
-<br>
-
-**UMAK Computer Society** - Technical Committee Member (August 2023 - May 2025)
-- Managed audio-visual infrastructure for 15+ flagship campus events
-- Coordinated events with 500+ attendees including Herons Welcome, ICT Congress
-- Operated camera systems, lighting, sound equipment, and livestream production
-
-**Data Engineering Pilipinas** - DataCamp Scholar (November 2025 - Present)
-- Selected for 12-month scholarship program in data engineering and analytics
-- Completing advanced coursework in ML, analytics, and data engineering
+- **Speaker** — Qwen Meetup Manila #2, Alibaba Cloud PH (2026)
+- **Community Officer** — AWS User Group PH, Community Day 2026
+- **DataCamp Scholar** — Data Engineering Pilipinas (selective program, 2025–present)
+- **Technical Committee** — UMak Computer Society, 15+ campus events
 
 </details>
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KpG782&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="180px"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KpG782&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180px"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KpG782&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180px"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KpG782&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KpG782&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170px"/>
 
 [![Ken's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KpG782&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -341,32 +268,12 @@ AI-powered Android app for identifying medicinal plants using computer vision.
 
 ---
 
-## GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KpG782&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kengarciaportfolio-kpg782s-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kenbuilds.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-patrick-garcia-ba5430285)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenpatrickgarcia123@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KpG782&color=58A6FF&style=flat-square&label=Profile+Views)
-
-**💡 Open to collaboration on AI/ML projects, full-stack development, and IoT systems!**
+**Open to hard problems worth solving — AI systems, RAG, agents, and full-stack engineering.**
 
 </div>
